@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\bin\Debug\net6.0\abstract class and members.exe
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\bin\Debug\net6.0\abstract class and members.deps.json
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\bin\Debug\net6.0\abstract class and members.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\bin\Debug\net6.0\abstract class and members.dll
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\bin\Debug\net6.0\abstract class and members.pdb
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.dll
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\refint\abstract class and members.dll
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.pdb
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\abstract class and members.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\c# intermediate\abstract class and members\obj\Debug\net6.0\ref\abstract class and members.dll

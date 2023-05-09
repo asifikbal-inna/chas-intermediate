@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "boxing and unboxing in chash/1.0.0": {
+        "runtime": {
+          "boxing and unboxing in chash.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "boxing and unboxing in chash/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
